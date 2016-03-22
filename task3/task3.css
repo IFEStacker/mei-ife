@@ -1,0 +1,80 @@
+body{
+	padding: 0;
+	margin: 0;
+}
+body{
+	padding:20px;
+}
+
+#back{
+	overflow: hidden;
+	padding: 20px;
+	border: 1px solid #999;
+	background-color: #eee;
+
+
+
+}
+
+#team{
+	overflow: hidden;
+	background-color: #fff;
+	border: 1px solid #999;
+	float: left;
+	padding: 20px;
+	width: 160px;
+	text-align: center;
+}
+
+#team img{
+	display: block;
+	border: 1px solid #999;
+	width: 80px;
+	height: 80px;
+	float:left;
+	margin: 0px auto;
+
+
+}
+
+
+#member{
+	overflow: hidden;
+	padding: 20px;
+	background-color:white;
+	border: 1px solid #999;
+	float:right;
+	width: 80px;
+
+}
+
+#member img{
+	display: block;
+	border: 1px solid #999;
+	width: 80px;
+	height: 80px;
+	float:left;
+	margin-top:20px; 
+
+
+}
+
+#member img:first-child{
+	margin: 0;
+
+}
+
+
+
+
+#content{
+	background-color: white;
+	border: 1px solid #999;
+	height: 100%;
+	margin-left:220px;
+	margin-right:140px;
+	padding: 20px;
+
+
+}
+
